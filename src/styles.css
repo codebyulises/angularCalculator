@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+    --primary-black: #252525ff;
+    --secondary-black: #201E1C;
+    --third-black: 	#000000;
+    --primary-blue: #3b5998;
+    --secondary-blue: #d8dfea;
+    --primary-white: #fff;
+    --primary-yellow: #ffdb57;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
